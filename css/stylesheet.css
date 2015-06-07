@@ -1,0 +1,44 @@
+
+body {
+	
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color:#bcbbbb;
+	font-weight: 300;
+	background-color:#262d2f
+}
+
+.container {
+	background-color:#262d2f
+	width:100%;
+
+}
+
+img, embed, object, video, text{
+	max-width: 100%;
+}
+
+img{
+	margin: auto;
+}
+
+hr {
+	border:1px solid;
+	color:#b1b299;
+}
+
+.second {
+	border:1px solid;
+	color:#000000;
+}
+.text-muted{
+	color:#bcbbbb;
+}
+.text-thin {
+	font-weight: 200;
+}
+.title-super {
+	font-size:40px;
+}
+.title-logo {
+	margin-top: 20px;
+}
